@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0f52ba&fontColor=0f52ba"/>
 
-
 <div align="center">
   <h3>Stats</h3>
   <div>
@@ -11,7 +10,6 @@
   </div>
 </div>
 <br />
-
 
 <div align="center">
   <h3>Tools</h3>
@@ -35,6 +33,6 @@
 
   <div align="center">
     <h3>Contacts</h3>
-    <a href="https://www.linkedin.com/in/pedro-magalh%C3%A3es-431228184/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='vs' height='30' />
-  </div>
+    <a href="https://www.linkedin.com/in/pedro-magalh%C3%A3es-431228184/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='vs' height='30' /></a>
+  </div>
 </div>
