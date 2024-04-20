@@ -33,6 +33,6 @@
 
   <div align="center">
     <h3>Contacts</h3>
-    <a href="https://www.linkedin.com/in/pedro-magalh%C3%A3es-431228184/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='vs' height='30' /></a>
+    <a href="https://www.linkedin.com/in/jos%C3%A9-magalh%C3%A3es-431228184/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='vs' height='30' /></a>
   </div>
 </div>
