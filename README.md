@@ -3,10 +3,10 @@
 <div align="center">
   <h3>Stats</h3>
   <div>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=josemagalhaes25&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=0f52ba&text_color=d7d7d7&icon_color=0f52ba"/>
-    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=josemagalhaes25&stroke=ffffff&theme=transparent&ring=0f52ba&fire=0f52ba&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=josemagalhaes25&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=bA0f52&text_color=d7d7d7&icon_color=bA0f52"/>
+    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=josemagalhaes25&stroke=ffffff&theme=transparent&ring=bA0f52&fire=bA0f52&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
     <br /> 
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemagalhaes25&theme=transparent&hide_border=true&hide_title=true&title_color=0f52ba&text_color=ffffff"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemagalhaes25&theme=transparent&hide_border=true&hide_title=true&title_color=bA0f52&text_color=ffffff"/>
   </div>
 </div>
 <br />
